@@ -1,0 +1,1 @@
+from losses import fafe, fape, torsion, violation
